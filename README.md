@@ -11,3 +11,5 @@ I have used KMeans Model to make clusters.
 I have also used PCA to reduce the number of components and plotted the results again to study that if it makes a difference in cluster visualisations.
 
 To make it easy to visualise and study, I have plotted composite charts at the end of my project.
+
+![bokeh_plot](https://github.com/ubnas1/CryptoClustering/assets/116352196/86882ba3-da67-4959-a0a0-138186c82ab9)
